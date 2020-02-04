@@ -1,3 +1,3 @@
 <p align="center">
-    <img alt="Demo" src="./Demo.mp4"/>
+    <img alt="Demo" src="./Demo.png"/>
 </p>
