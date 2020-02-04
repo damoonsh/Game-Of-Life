@@ -1,4 +1,3 @@
 <p align="center">
-    <video src="./Demo.mp4">
-    <video>
+    <img alt="Demo" src="./Demo.mp4"/>
 </p>
